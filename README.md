@@ -1,3 +1,4 @@
-# hello-world
-This repo is for test
-Add a Git repository to your Amazon SageMaker account
+# Testing
+print("This repo is for test")
+print("Add a Git repository to your Amazon SageMaker account")
+
